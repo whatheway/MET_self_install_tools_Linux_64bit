@@ -6,4 +6,6 @@ Information about the MET & METplus can be found at DTC's webiste: https://dtcen
 
 # Important Information
 The Weather Research Forecast Model (WRF) or WRF Chemisty (WRFCHEM) must be installed prior to installing these programs.
-Self install scripts are available at github.com/whatheway/
+
+Self install scripts are available at
+http://github.com/whatheway/
