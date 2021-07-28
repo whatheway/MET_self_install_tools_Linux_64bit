@@ -17,4 +17,9 @@ http://github.com/whatheway/
 Scripts MUST be downloaded into the Home Directory $HOME in order for installation to work.
 
 
+#### Users can get help with METplus installation by visiting https://dtcenter.org/community-code/metplus/get-help. 
+
+
+
+
 ## Thank you to DTC's Julie P. for all the help debugging this installation!
