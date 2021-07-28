@@ -3,6 +3,10 @@ This script installs NCAR Development Testbed Center's Model Evaluation Tools (M
 
 Information about the MET & METplus can be found at DTC's webiste: https://dtcenter.org/
 
+Script will install all required directories and librarires.
+
+### Script does not use Conda.
+
 
 # Important Information
 The Weather Research Forecast Model (WRF) or WRF Chemisty (WRFCHEM) must be installed prior to installing these programs.
