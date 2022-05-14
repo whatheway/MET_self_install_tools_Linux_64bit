@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Met Self Install Tools Linux 64bit
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Will
+    family-names: Hatheway
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/whatheway/MET_self_install_tools_Linux_64bit
+version: 1.0
+date-released: '2022-04-27'
