@@ -24,4 +24,4 @@ Scripts MUST be downloaded into the Home Directory $HOME in order for installati
 
 ## Thank you to DTC's Julie P. for all the help debugging this installation!
 
-Hatheway, W. (2022). Met Self Install Tools Linux 64bit (Version 1.0) [Computer software]
+Hatheway, W. (2022). Met Self Install Tools Linux 64bit (Version 2.0) [Computer software]
