@@ -11,5 +11,5 @@ identifiers:
   - type: url
     value: >-
       https://github.com/whatheway/MET_self_install_tools_Linux_64bit
-version: 1.0
-date-released: '2022-04-27'
+version: 2.0
+date-released: '2022-05-17'
