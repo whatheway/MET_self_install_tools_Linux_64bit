@@ -25,3 +25,7 @@ Scripts MUST be downloaded into the Home Directory $HOME in order for installati
 ## Thank you to DTC's Julie P. for all the help debugging this installation!
 
 Hatheway, W. (2022). Met Self Install Tools Linux 64bit (Version 2.0) [Computer software]
+
+### Sponsorships and donations accepted but NOT required
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/whatheway)
+
